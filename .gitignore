@@ -1,0 +1,7 @@
+# Datasets
+*.parquet
+*.csv
+*.zip
+
+# Data directory
+data/
