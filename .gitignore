@@ -5,3 +5,10 @@
 
 # Data directory
 data/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
